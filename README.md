@@ -23,6 +23,15 @@ A Frontend Developer with knowledge in web design... Lorem ipsum dolor, sit amet
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/mysql/mysql-original.svg" width="50px" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/java/java-original.svg" width="50px" height="50">
 
+---
+
+## &#x1f4c8; My GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloZerpa&hide=java,html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloZerpa&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **PabloZerpa/PabloZerpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
