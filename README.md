@@ -1,16 +1,12 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Pablo Zerpa!
----
 
-![GitHub Org's stars](https://img.shields.io/github/stars/PabloZerpa?label=Stars&style=social)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/prueba?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/b?label=Twitter&style=social)
+![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
----
-
-A Frontend Developer with knowledge in web design... Lorem ipsum dolor, sit amet consectetur adipisicing elit. Blanditiis aut, dolor maiores nihil porro quod quo vitae rem beatae laudantium, enim sunt libero corporis totam quisquam at eligendi nemo alias dolore repellat. Debitis assumenda at, voluptatibus optio quae dolorum voluptatem!
+I'm a Web Developer and Engineering Student with knowledge in web design (html, css, javascript, typescript, react.js, node.js, java), 
+UML(Unified Modeling Language) and database (firebase, mysql)
 
 ---
-🛠 Tools
+## 🛠 Languages and Tools
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/html5/html5-original.svg" width="50px" height="50"><img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/css3/css3-original.svg" width="50px" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/sass/sass-original.svg" width="50px" height="50">
@@ -25,13 +21,16 @@ A Frontend Developer with knowledge in web design... Lorem ipsum dolor, sit amet
 
 ---
 
-## &#x1f4c8; My GitHub Stats
+## 📱 Socials Medias
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PabloZerpa)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/pablo-zerpa/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCv4L0InVTyp02lPzFcORRfw)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloZerpa&hide=java,html,css&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloZerpa&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+## ⚔ Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PabloZerpa)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=PabloZerpa&show_icons=true)  
 
 <!--
 **PabloZerpa/PabloZerpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
