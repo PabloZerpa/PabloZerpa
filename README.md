@@ -1,9 +1,9 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Pablo Zerpa!
 
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I'm a Web Developer and Engineering Student with knowledge in web design (html, css, javascript, typescript, react.js, node.js, java), 
 UML(Unified Modeling Language) and database (firebase, mysql)
+
+<img src="https://blog.powerdata.es/hs-fs/hubfs/Stock%20images/cabecera%20machine%20learning%20IA%20big%20data.jpg?width=1000&name=cabecera%20machine%20learning%20IA%20big%20data.jpg" width="1000px" height="275">
 
 ---
 ## 🛠 Languages and Tools
