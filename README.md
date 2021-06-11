@@ -1,7 +1,6 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Pablo Zerpa!
+## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Pablo Zerpa!
 
-I'm a Web Developer and Engineering Student with knowledge in web design (html, css, javascript, typescript, react.js, node.js, java), 
-UML(Unified Modeling Language) and database (firebase, mysql)
+#### I'm a Web Developer and Engineering Student with knowledge in web technologies, database, UML and data structure
 
 <img src="https://blog.powerdata.es/hs-fs/hubfs/Stock%20images/cabecera%20machine%20learning%20IA%20big%20data.jpg?width=1000&name=cabecera%20machine%20learning%20IA%20big%20data.jpg" width="1000px" height="275">
 
@@ -14,10 +13,11 @@ UML(Unified Modeling Language) and database (firebase, mysql)
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/typescript/typescript-original.svg" width="50px" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/react/react-original.svg" width="50px" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/nodejs/nodejs-original.svg" width="50px" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/git/git-original.svg" width="50px" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/java/java-original.svg" width="50px" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/firebase/firebase-plain.svg" width="50px" height="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/mysql/mysql-original.svg" width="50px" height="50">
-<img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/java/java-original.svg" width="50px" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/git/git-original.svg" width="50px" height="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/7a4ca8aa871d6dca81691e018d31eed89cb70a76/icons/docker/docker-original.svg" width="50px" height="50">
 
 ---
 
