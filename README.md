@@ -2,7 +2,7 @@
 
 #### I'm a Web Developer and Engineering Student
 
-<img src="https://blog.powerdata.es/hs-fs/hubfs/Stock%20images/cabecera%20machine%20learning%20IA%20big%20data.jpg?width=1000&name=cabecera%20machine%20learning%20IA%20big%20data.jpg" width="1000px" height="275">
+<img src="https://media1.giphy.com/media/gh0RRgkTXedvF0pDc0/giphy.gif?cid=ecf05e47rdhhyeddfui0dg2l0jsly3ej4cm8n5c90bsuzv20&rid=giphy.gif&ct=g" />
 
 ## 🛠 Languages and Tools
 
@@ -21,13 +21,13 @@
 
 ## 📱 Socials Medias
 
+<img src="https://i.pinimg.com/originals/3d/74/68/3d7468d1bb523674726ba6934a396566.gif" height="125em" />
 <div>
   <a href="https://github.com/PabloZerpa" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pablo-zerpa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+  <a href="https://pabloz.hashnode.dev/" target="_blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/3g5QeqwM" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCv4L0InVTyp02lPzFcORRfw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
 ## ⚔ Stats
