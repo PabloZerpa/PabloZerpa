@@ -21,9 +21,16 @@
 ## 📱 Socials Medias
 <div>
   <a href="https://www.linkedin.com/in/pablo-zerpa/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" target="_blank" width="50px" ></a>
-  <a href="https://github.com/PabloZerpa" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" 
+target="_blank" width="50px" >
+  </a>
+  <a href="https://pablozerpa.github.io/Portfolio/" target="_blank">
+    <img src="https://cdn3.iconfinder.com/data/icons/user-interface-web-1/550/web-circle-circular-round_24-512.png" target="_blank" width="50px" 
+  </a>
+  <!---  <a href="https://github.com/PabloZerpa" target="_blank">
     <img src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png" target="_blank" width="50px" ></a>
+    -->
+  
 </div><br>
 
 <img src="https://i.pinimg.com/originals/3d/74/68/3d7468d1bb523674726ba6934a396566.gif" height="125em" />
